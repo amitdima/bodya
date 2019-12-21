@@ -1,0 +1,59 @@
+body, * {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin: 0;
+    width: 100%;
+    background: #0e2330;
+    position: absolute;
+}
+
+.navbar {
+    text-decoration: none;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    text-align: center;
+    margin-top: 20px;
+    width: 50%;
+}
+
+.logotip {
+    font-size: 35pt;
+    color: tan;
+    text-decoration: none;
+}
+
+.logotip:hover {
+    color: peru;
+}
+
+.menu {
+    list-style: none;
+    width: 25%;
+    display: flex;
+}
+
+.nav_menu {
+    text-decoration: none;
+    color: tan;
+}
+
+.nav_menu:hover {
+    color: peru;
+} 
+
+.placeholder {
+    width: 25%;
+}
+
+
+
+
+
+
